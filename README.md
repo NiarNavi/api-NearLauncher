@@ -17,6 +17,6 @@
   </tr>
 </table>
 
-### Downloader New Launcher API
-setiap mengubah LauncherVersion.txt maka launcher akan meminta untuk update dan dibarengi dengan Release
+### NeaR Launcher
+Near Launcher dirancang untuk memberikan pengalaman bermain yang sederhana dan menyenangkan. Antarmukanya yang intuitif memudahkan Anda untuk memulai game, mengakses berbagai fitur, dan menikmati pengalaman bermain yang tak terganggu. Selain itu, Near Launcher juga memungkinkan Anda untuk mengakses berbagai konten dan mod yang menarik, sehingga Anda dapat memperluas pengalaman bermain Minecraft Anda.
 
